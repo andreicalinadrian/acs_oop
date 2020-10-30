@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1603992605 source:f:\cursuri+carti\an 2\sem1\poo\teme\lab4\lab4\main.cpp
+	<iostream>
+	<string.h>
+	<cstdlib>
+	"fractie.h"
+
+1603993320 source:f:\cursuri+carti\an 2\sem1\poo\teme\lab4\lab4\fractie.cpp
+	<iostream>
+	<string.h>
+	<cstdlib>
+	"fractie.h"
+
+1603991686 f:\cursuri+carti\an 2\sem1\poo\teme\lab4\lab4\fractie.h
+

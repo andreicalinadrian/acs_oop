@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1603393627 source:f:\cursuri+carti\an 2\sem1\poo\teme\lab3\lab3\main.cpp
+	<iostream>
+	<string.h>
+	<cstdlib>
+	"Angajat.h"
+
+1603393504 f:\cursuri+carti\an 2\sem1\poo\teme\lab3\lab3\angajat.h
+	<cstdlib>
+
+1603393499 source:f:\cursuri+carti\an 2\sem1\poo\teme\lab3\lab3\angajat.cpp
+	<iostream>
+	<string.h>
+	<cstdlib>
+	"Angajat.h"
+
