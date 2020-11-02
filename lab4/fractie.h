@@ -16,6 +16,7 @@ public:
 	float getB();
 
 	friend const fractie operator +(const fractie&, const fractie&);
+	friend const fractie operator -(const fractie&, const fractie&);
 	friend const fractie operator -(const fractie&);
 	friend const fractie operator *(const fractie&, const fractie&);
 	friend const fractie operator /(const fractie&, const fractie&);
