@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1604600490 source:f:\cursuri+carti\an 2\sem1\poo\teme\lab5\garantie.cpp
+	<iostream>
+	<string.h>
+	<cstdlib>
+	"Produs.h"
+	"Garantie.h"
+
+1604596873 f:\cursuri+carti\an 2\sem1\poo\teme\lab5\produs.h
+	"Garantie.h"
+	<iostream>
+
+1604596303 f:\cursuri+carti\an 2\sem1\poo\teme\lab5\garantie.h
+	<iostream>
+
+1604600299 source:f:\cursuri+carti\an 2\sem1\poo\teme\lab5\main.cpp
+	<iostream>
+	<string.h>
+	<cstdlib>
+	"Produs.h"
+	"Garantie.h"
+
+1604600490 source:f:\cursuri+carti\an 2\sem1\poo\teme\lab5\produs.cpp
+	<iostream>
+	<string.h>
+	<cstdlib>
+	"Produs.h"
+	"Garantie.h"
+
