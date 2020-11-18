@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1605210078 source:f:\cursuri+carti\an 2\sem1\poo\teme\lab7\electrocasnic.cpp
+	<iostream>
+	<string.h>
+	<cstdlib>
+	"produs.h"
+	"electrocasnic.h"
+
+1605210078 source:f:\cursuri+carti\an 2\sem1\poo\teme\lab7\produs.cpp
+	<iostream>
+	<string.h>
+	<cstdlib>
+	"produs.h"
+
+1605210078 source:f:\cursuri+carti\an 2\sem1\poo\teme\lab7\tv.cpp
+	<iostream>
+	<string.h>
+	<cstdlib>
+	"produs.h"
+	"electrocasnic.h"
+	"tv.h"
+
+1605210078 source:f:\cursuri+carti\an 2\sem1\poo\teme\lab7\main.cpp
+	<iostream>
+	<string.h>
+	<cstdlib>
+	"produs.h"
+	"electrocasnic.h"
+	"tv.h"
+
+1605209666 f:\cursuri+carti\an 2\sem1\poo\teme\lab7\produs.h
+	<iostream>
+	<string.h>
+
+1605209666 f:\cursuri+carti\an 2\sem1\poo\teme\lab7\electrocasnic.h
+	<iostream>
+	<string.h>
+
+1605209532 f:\cursuri+carti\an 2\sem1\poo\teme\lab7\tv.h
+	<iostream>
+	<string>
+
