@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1605810416 source:f:\cursuri+carti\an 2\sem1\poo\teme\lab8\imobil.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+	"proprietate.h"
+	"imobil.h"
+	"teren.h"
+	<fstream>
+
+1605808924 f:\cursuri+carti\an 2\sem1\poo\teme\lab8\proprietate.h
+	<iostream>
+	<cstdlib>
+	<string>
+	<fstream>
+
+1605808924 f:\cursuri+carti\an 2\sem1\poo\teme\lab8\imobil.h
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<string>
+	"proprietate.h"
+
+1605808924 f:\cursuri+carti\an 2\sem1\poo\teme\lab8\teren.h
+	"proprietate.h"
+	"imobil.h"
+	<iostream>
+	<cstdlib>
+	<string>
+	<fstream>
+
+1605810178 source:f:\cursuri+carti\an 2\sem1\poo\teme\lab8\main.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+	<fstream>
+	"proprietate.h"
+	"imobil.h"
+	"teren.h"
+
+1605809088 source:f:\cursuri+carti\an 2\sem1\poo\teme\lab8\proprietate.cpp
+	<iostream>
+	<cstdlib>
+	<string.h>
+	"proprietate.h"
+	"imobil.h"
+	"teren.h"
+	<fstream>
+
+1605809088 source:f:\cursuri+carti\an 2\sem1\poo\teme\lab8\teren.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+	"proprietate.h"
+	"imobil.h"
+	"teren.h"
+	<fstream>
+

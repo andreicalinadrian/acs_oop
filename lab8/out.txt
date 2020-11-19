@@ -1,0 +1,15 @@
+=======================================
+VECTORUL ESTE : 
+p0001 adresa1 50000
+i0001 adresa2 90002 termopan centrala 
+t0001 adresa3 30000 50 500
+=======================================
+VECTORUL SORTAT ESTE : 
+p0001 adresa1 50000
+i0001 adresa2 90002 termopan centrala 
+t0001 adresa3 30000 50 500
+=======================================
+AFISARE ELEM. CU VAL. > 10000 : 
+p0001 adresa1 50000
+t0001 adresa3 30000 50 500
+=======================================
